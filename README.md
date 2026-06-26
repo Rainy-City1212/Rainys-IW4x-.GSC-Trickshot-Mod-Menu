@@ -139,6 +139,7 @@ ADS, Melee, and Use must also be bound normally in your IW4x controls.
 * This menu is intended for private matches, not public cheating.
 * Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in a future release.
 * When spawning trickshot platforms, they bug out a little bit but they are still usable. In the future I plan to make them less buggy, but for now theyre functional.
+* Bots sometimes get stuck inder walkways and ladders when Bot Combat is turned OFF. When they stay stuck for too long, they teleport out so they can continue to run around the map.
 
 ## Credits
 
