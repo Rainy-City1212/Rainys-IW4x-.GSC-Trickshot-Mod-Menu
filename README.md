@@ -50,8 +50,8 @@ This menu was designed primarily with controller use in mind, but keyboard/mouse
 | Select Option | Use                          |
 | Go Back       | Melee                        |
 
-[!NOTE]
-The full on-screen menu is host-only. Other players may be able to join the private match, but the host controls the main menu.
+> [!NOTE]
+> The full on-screen menu is host-only. Other players may be able to join the private match, but the host controls the main menu.
 
 ## Quick Binds
 
