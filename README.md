@@ -70,7 +70,7 @@ This menu was designed primarily with controller use in mind, but keyboard/mouse
 
 ## Quick Binds
 
-Some features can be triggered without having to open the menu (these are called quick binds).
+Some features can be triggered without having to open the menu (quick binds).
 
 | Action                   | Input                       |
 | ------------------------ | --------------------------- |
