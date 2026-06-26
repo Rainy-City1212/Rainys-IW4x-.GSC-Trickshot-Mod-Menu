@@ -85,11 +85,11 @@ Some features can be triggered without having to open the menu (quick binds).
 All quick binds should be enabled for the host by default, however most are toggelable within the menu if you want them turned OFF.
 
 
-### Controller Notes
+### Controller Users
 
 Controller is the recommended way to use this menu. The menu was built around controller-style navigation for trickshotting, especially D-pad movement and stance-based quick binds.
 
-### Keyboard/Mouse Notes
+### Keyboard/Mouse Users
 
 Keyboard/mouse users can use the menu, but may need to manually bind the action slot commands used for menu navigation.
 
