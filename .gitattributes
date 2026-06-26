@@ -1,0 +1,19 @@
+# Keep script/text mod files consistent
+*.gsc text eol=lf
+*.wpc text eol=lf
+*.wp text eol=lf
+*.csv text eol=lf
+*.arena text eol=lf
+*.cfg text eol=lf
+
+# Treat packed/game/media files as binary
+*.iwd binary
+*.ff binary
+*.iwi binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.zip binary
+*.rar binary
+*.7z binary
