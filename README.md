@@ -20,7 +20,7 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 
 ## Requirements
 
-* A working IW4x installation
+* A working IW4x installation (see this repo for instructions: https://github.com/iw4x/launcher)
 * Call of Duty: Modern Warfare 2 game files properly set up for IW4x
 * 7-Zip, WinRAR, or another archive tool
 * Basic knowledge of where your IW4x folder is located
