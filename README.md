@@ -73,7 +73,7 @@ Some features can be triggered without having to open the menu (these are called
 | Toggle TS Aimbot         | Crouch + D-pad Up           |
 | Spawn Trickshot Platform | Crouch + D-pad Left         |
 
-All quick binds should be enabled by default, however most are toggelable within the menu if you want them turned OFF.
+All quick binds should be enabled for the host by default, however most are toggelable within the menu if you want them turned OFF.
 
 
 ### Controller Notes
