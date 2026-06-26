@@ -125,7 +125,7 @@ ADS, Melee, and Use must also be bound normally in your IW4x controls.
 * Trickshot Only Damage toggle
 * Restart Game and End Game options
 * Weapon and camo menus
-* Wallbang/trickshot aimbot options for private use
+* Wallbang/trickshot aimbot options for private match use only
 * Additional quality-of-life tools, private match utilities, and smaller menu features not listed here
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/trickshot-mods.png)
