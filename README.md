@@ -37,7 +37,7 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 6. Start a private match. You should immediately see the "Welcome to Rainy's Mod Menu" text pop up on screen if installed correctly.
 7. Open the menu using the listed controls.
 
-![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/welcome-screen.png)
+![Rainy's IW4x .GSC Trickshot Mod Menu - Welcome Screen](./screenshots/welcome-screen.png)
 
 ## Menu Navigation
 
