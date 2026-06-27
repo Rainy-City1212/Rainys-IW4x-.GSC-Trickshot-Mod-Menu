@@ -8,6 +8,8 @@ This release includes the main .GSC trickshot menu, modified Bot Warfare support
 
 ## Disclaimer
 
+***Current build may crash after heavy menu browsing due to IW4x HUD/configstring limits. A stability-focused build is being worked on. The full build remains available for testing, but users should expect possible crashes during long sessions or heavy submenu browsing.***
+
 Use of this mod menu in online/public matches may result in your IW4x account being banned or restricted. This menu was designed for private match trickshotting against bots and may support other players joining your private lobby. It should not be used in public matches or on servers you do not own or administer.
 
 Only use this menu in private matches, offline sessions, or dedicated servers where you have permission and all players understand that mods are being used.
