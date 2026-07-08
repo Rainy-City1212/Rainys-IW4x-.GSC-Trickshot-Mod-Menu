@@ -17,11 +17,9 @@ Use of this mod menu in online/public matches may result in your IW4x account be
 
 ## Included
 
-* Rainy's IW4x Trickshot Mod Menu GSC files
-* Bot Warfare support files
-* Bot waypoint data
+* Rainy's IW4x Trickshot Mod Menu GSC file (/scripts)
+* Bot waypoint data (/scriptdata/waypoints)
 * Modified Bot Warfare script installation mod 'z_svr_bots.iwd'
-* Private match trickshot/lobby/bot tools
 
 ## Requirements
 
