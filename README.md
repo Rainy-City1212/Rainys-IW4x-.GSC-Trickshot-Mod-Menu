@@ -15,7 +15,7 @@ This release includes the main .GSC trickshot menu, modified Bot Warfare support
 
 Use of this mod menu in online/public matches may result in your IW4x account being banned or restricted. This menu was designed for private match trickshotting against bots and may support other players joining your private lobby. It should not be used in public matches or on servers you do not own or administer.
 
-This mod menu was developed for IW4x only. It will not work properly on any other version of MW2. Also, the mod menu is dependent upon the modified bot warfare mod I have provided in this repo (z_svr_bots.iwd) and the two must be installed together to function properly.
+This mod menu was developed exclusively for IW4x and is not compatible with other versions of MW2. It also depends on the modified Bot Warfare package included in this repository (z_svr_bots.iwd), so both must be installed together for the menu to function correctly.
 
 ## Included
 
