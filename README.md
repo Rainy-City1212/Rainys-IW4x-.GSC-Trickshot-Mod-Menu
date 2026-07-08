@@ -21,7 +21,7 @@ This mod menu was developed exclusively for IW4x and is not compatible with othe
 
 * Rainy's IW4x Trickshot Mod Menu GSC file (/scripts)
 * Bot waypoint data (/scriptdata)
-* Modified Bot Warfare script installation mod 'z_svr_bots.iwd'
+* Modified Bot Warfare script installation mod (z_svr_bots.iwd)
 
 ## Requirements
 
