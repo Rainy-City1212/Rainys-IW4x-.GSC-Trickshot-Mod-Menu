@@ -25,7 +25,7 @@ This mod menu was developed exclusively for IW4x and is not compatible with othe
 
 ## Requirements
 
-* Call of Duty: Modern Warfare 2 game files properly set up for IW4x (Steam game version is recommended)
+* Call of Duty: Modern Warfare 2 game files properly set up for IW4x (Steam version is recommended)
 * A working IW4x installation (see this repo for instructions: https://github.com/iw4x/launcher)
 * 7-Zip, WinRAR, or another archive tool
 
