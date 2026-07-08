@@ -23,10 +23,9 @@ Use of this mod menu in online/public matches may result in your IW4x account be
 
 ## Requirements
 
+* Call of Duty: Modern Warfare 2 game files properly set up for IW4x (Steam game version is recommended)
 * A working IW4x installation (see this repo for instructions: https://github.com/iw4x/launcher)
-* Call of Duty: Modern Warfare 2 game files properly set up for IW4x
 * 7-Zip, WinRAR, or another archive tool
-* Basic knowledge of where your IW4x folder is located
 
 ## Installation
 
