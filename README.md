@@ -155,7 +155,7 @@ ADS, Melee, and Use must also be bound normally in your IW4x controls.
 ## Known Notes/Bugs
 
 * Some custom maps may not support bots correctly.
-* Trickshot platforms do not work on custom maps or on some IW4X/cod 4 maps. They don't support care packages like stock MW2 maps do. I have been able to alter the trickshot platforms in recent releases to work for more maps, but there are still many non-stock MW2 maps thst do not support them.
+* Trickshot platforms do not work on custom maps or on some IW4X/cod 4 maps. They don't support care packages like stock MW2 maps do. I have been able to alter the trickshot platforms in recent releases to work for more maps, but there are still many non-stock MW2 maps that do not support them.
 * Some maps may crash or lag with high bot counts.
 * If bots do not move, the map may be missing proper bot/waypoint support.
 * Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in a future release.
