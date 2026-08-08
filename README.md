@@ -158,7 +158,7 @@ ADS, Melee, and Use must also be bound normally in your IW4x controls.
 * Trickshot platforms do not work on custom maps or on some IW4X/cod 4 maps. They don't support care packages like stock MW2 maps do. I have been able to alter the trickshot platforms in recent releases to work for more maps, but there are still many non-stock MW2 maps that do not support them.
 * Some maps may crash or lag with high bot counts.
 * If bots do not move, the map may be missing proper bot/waypoint support.
-* Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in a future release.
+* Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but I plan to fix this in a future release.
 * When spawning trickshot platforms, they bug out a little bit but they are still usable. In the future I plan to make them less buggy, but for now theyre functional.
 * Bots sometimes get stuck inder walkways and ladders when Bot Combat is turned OFF. When they stay stuck for too long, they teleport out so they can continue to run around the map.
 * If killcams are turned on for the host, after the killcam comes up, it removes some hud elements from the mod menu. IW4x/MW2 has a cap for how many HUD elements can be on screen, and killcams add a few. This is why killcams were disabled for the host by default (this is toggleable in the menu).
