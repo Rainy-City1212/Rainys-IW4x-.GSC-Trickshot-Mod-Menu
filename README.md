@@ -50,6 +50,28 @@ This mod menu was developed exclusively for IW4x and is not compatible with othe
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Welcome Screen](./screenshots/welcome-screen.png)
 
+## Dedicated Server Setup
+
+Rainy's Mod Menu v2.0+ supports IW4x dedicated servers using a GUID-based owner whitelist. This allows the server owner to use the mod menu without giving menu access to other players.
+
+To authorize yourself on a dedicated server:
+
+1. Find your GUID/XUID from the dedicated server console when you connect.
+2. Open `userraw/server.cfg`.
+3. Add the following line:
+
+```cfg
+set rainy_owner_guids "YOUR_GUID_HERE"
+```
+
+Example:
+
+```cfg
+set rainy_owner_guids "2a5977c4d19754e6"
+```
+
+Restart the server after making changes.
+
 ## Menu Navigation
 
 This menu was designed primarily with controller use in mind, but keyboard/mouse players can still use it as long as the required IW4x actions are properly bound.
