@@ -67,7 +67,7 @@ set rainy_owner_guids "YOUR_GUID_HERE"
 Example:
 
 ```cfg
-set rainy_owner_guids "2a5977c4d19754e6"
+set rainy_owner_guids "2a8970r4d49754e9"
 ```
 
 Restart the server after making changes.
