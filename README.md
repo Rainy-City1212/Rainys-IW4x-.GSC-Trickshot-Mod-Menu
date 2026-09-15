@@ -74,7 +74,7 @@ Restart the server after making changes.
 
 ## Menu Navigation
 
-This menu was designed primarily with controller use in mind, but keyboard/mouse players can still use it as long as the required IW4x actions are properly bound.
+This menu was designed primarily with controller use in mind (specifically Xbox and X-Input styles), but keyboard/mouse players can still use it as long as the required IW4x actions are properly bound.
 
 ### Basic Controls
 
